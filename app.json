@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "Lamtest",
+    "description": "description",
+    "android": {
+      "package": "com.test.test"
+    },
+    "ios": {
+    	"bundleIdentifier": "com.123.456"
+    }
+  }
+}
